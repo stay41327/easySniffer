@@ -1,0 +1,19 @@
+
+大作业题目：网络嗅探器
+
+第三方库：scapy 2.2.0，Pmw2
+
+运行环境：linux系统（有图形化界面的）
+	  Python 2.7.5
+
+文件介绍：snlib.py ==============》各功能实现的函数库
+	  UserInterface.py ===》UI界面实现
+
+安装及运行：
+	1）apt-get install python-scapy
+	2）apt-get install python-Tkinter
+	3）apt-get install python-pmw（如果用附件中的包安装，可省略此步）
+	4）运行时将两个文件放在一个文件夹内
+	5）cd Path
+	6）python UserInterface.py （注：需要root权限）
+	7）图形化界面的操作详见作业报告
